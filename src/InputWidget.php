@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\selectize;
+namespace ferrumfist\yii2autocomplete;
 
 use yii\helpers\Json;
 use yii\helpers\Url;

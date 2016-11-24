@@ -5,7 +5,7 @@
  * @license http://opensource.org/licenses/BSD-3-Clause
  */
 
-namespace dosamigos\selectize;
+namespace ferrumfist\yii2autocomplete;
 
 use yii\web\AssetBundle;
 
@@ -16,7 +16,7 @@ use yii\web\AssetBundle;
  */
 class SelectizeAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/selectize/dist';
+    public $sourcePath = '@ferrumfist\yii2autocomplete/assets';
     public $css = [
         'css/selectize.bootstrap3.css',
     ];
