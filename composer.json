@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-selectize-widget",
+    "name": "ferrumfist/yii2-autocomplete",
     "description": "The selectize.js widget for the Yii framework",
     "keywords": [
         "2amigos",
@@ -11,17 +11,12 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-selectize-widget",
+    "homepage": "https://github.com/ferrumfist/yii2-autocomplete",
     "authors": [
         {
-            "name": "Alexander Kochetov",
-            "email": "creocoder@gmail.com",
-            "role": "Developer"
-        },
-        {
-            "name": "2amigOS! Consulting Group",
-            "email": "hola@2amigos.us",
-            "homepage": "http://2amigos.us",
+            "name": "Yaroslav Spirin",
+            "email": "ferrumfist@gmail.com",
+            "homepage": "",
             "role": "Developer"
         }
     ],
@@ -35,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "dosamigos\\selectize\\": "src"
+            "ferrumfist\\yii2-autocomplete\\": "src"
         }
     },
     "extra": {
