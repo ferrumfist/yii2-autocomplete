@@ -27,7 +27,7 @@ or add
 
 to the `require` section of your `composer.json` file.
 
-## Usage
+## Usage123
 
 Selectize has lots of configuration options. For further information, please check the Selectize plugin [website](http://brianreavis.github.io/selectize.js/).
 
